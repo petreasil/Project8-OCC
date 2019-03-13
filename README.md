@@ -5,4 +5,4 @@ The Scope of the project is working on an existing codebase by fixing bugs, addi
 
 You can find tested app here:
 
-For technical document:
+For technical document: https://github.com/petreasil/Project8-OCC/wiki
