@@ -1,0 +1,32 @@
+Type mistake:
+
+Location: js/controller.js (line 95)
+Controller.prototype.adddItem
+
+Fixed:
+
+Controller.prototype.addItem
+------------------------
+
+Associated label to the input with a class
+
+<input class="toggle-all" type="checkbox">
+<label for="toggle-all">Mark all as complete</label>
+
+Fixed:
+
+<input class="toggle-all" id=”toggle-all” type="checkbox">
+
+------------------
+
+-------------------------
+
+
+
+-------------------
+js/app.js sets up a new Todo list.
+js/controller.js specifies the interactions between the view and the model.
+js/model.js defines data management methods
+js/view.js defines data displaying methods
+js/template.js returns a predefined template.
+js/store.js create a storage space on the client host.
