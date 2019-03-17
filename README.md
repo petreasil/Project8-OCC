@@ -4,6 +4,7 @@ The Scope of the project is working on an existing codebase by fixing bugs, addi
 ![Image of ToDaApp](https://user.oc-static.com/upload/2017/10/17/15082303690994_Screen%20Shot%202017-10-17%20at%2010.52.21%20AM.png)
 
 For technical document: https://github.com/petreasil/Project8-OCC/wiki
+
 For the app: https://petreasil.github.io/Project8-OCC/
 
 For jasmine unit test follow steps below:
